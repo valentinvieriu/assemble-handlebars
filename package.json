@@ -40,7 +40,7 @@
   "dependencies": {
     "lodash": "3.10.1",
     "handlebars": "4.0.5",
-    "handlebars-helpers": "git+https://github.com/assemble/handlebars-helpers#v0.6.0"
+    "handlebars-helpers": "assemble/handlebars-helpers#handlebars-2.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
